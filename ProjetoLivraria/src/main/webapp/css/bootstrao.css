@@ -1,0 +1,11 @@
+.painel-cadastro {
+	width: 500px;
+	position: relative;
+	top: 20px;
+	left: 390px;
+	margin-bottom: 30px;
+}
+
+.panel-body {
+	margin: 5px;
+}
